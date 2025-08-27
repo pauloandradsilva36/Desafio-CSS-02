@@ -11,7 +11,8 @@ O objetivo foi praticar **HTML** e **CSS**, aplicando conceitos de **responsivid
 <img src="https://github.com/pauloandradsilva36/easy-Shopping/blob/master/assets/Captura%20de%20Tela%202025-08-27%20%C3%A0s%2013.19.55.png?raw=true" alt="Screenshot Desktop do Easy Shopping"/>
 
 ### 📱 Versão Telemóvel
-<img src=""/>
+<img src="https://github.com/pauloandradsilva36/easy-Shopping/blob/master/assets/Captura%20de%20Tela%202025-08-27%20%C3%A0s%2013.20.09.png?raw=true" alt="Screenshot Mobile do Easy Shopping" width="300px"/>
+
 
 ---
 
