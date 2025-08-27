@@ -1,22 +1,22 @@
 # 🛍️ Easy Shopping
 
-## 📘 Sobre
-Esse é um projeto que aprendi no curso do [DevClub](https://www.devclub.com.br).  
-O objetivo foi praticar **HTML** e **CSS**, aplicando conceitos de **responsividade** para diferentes dispositivos (computador e telemóvel).
+## Sobre
+<h2>Esse é um projeto que aprendi no <a href="https://www.devclub.com.br">DevClub</a></h2> 
+O objetivo foi praticar HTML e CSS, aplicando conceitos de responsividade para diferentes dispositivos (computador e telemóvel).
 
 ---
 
-## 🖼️ Capturas de Tela
-### 💻 Versão Desktop
+##  Capturas de Tela
+### Versão Desktop
 <img src="https://github.com/pauloandradsilva36/easy-Shopping/blob/master/assets/Captura%20de%20Tela%202025-08-27%20%C3%A0s%2013.19.55.png?raw=true" alt="Screenshot Desktop do Easy Shopping"/>
 
-### 📱 Versão Telemóvel
+### Versão Telemóvel
 <img src="https://github.com/pauloandradsilva36/easy-Shopping/blob/master/assets/Captura%20de%20Tela%202025-08-27%20%C3%A0s%2013.20.09.png?raw=true" alt="Screenshot Mobile do Easy Shopping" width="300px"/>
 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - **HTML5** → estrutura semântica da página  
 - **CSS3** → estilização, layout e responsividade  
 - **Flexbox & Media Queries** → adaptação do layout para desktop e mobile  
@@ -25,7 +25,7 @@ O objetivo foi praticar **HTML** e **CSS**, aplicando conceitos de **responsivid
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 - Layout adaptado para **computador** e **telemóvel**  
 - Uso de **media queries** para ajustar tamanhos de fonte, imagens e posicionamento de elementos  
 - Garantia de uma boa experiência em diferentes resoluções  
@@ -33,6 +33,5 @@ O objetivo foi praticar **HTML** e **CSS**, aplicando conceitos de **responsivid
 ---
 
 ## ▶️ Como visualizar
-1. Clone este repositório:  
-   ```bash
-   git clone 
+
+ - <a href="https://pauloandradsilva36.github.io/easy-Shopping/">Easy Shopping</a>
